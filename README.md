@@ -3,7 +3,7 @@ Thinker, programmer and designer by playing on the keyboard:musical_score:    :m
 I really enjoy learning programming, continuous development and working on projects...
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemocod&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemocod&count_private=true)](https://github.com/hemocod/github-readme-stats)
 
 
 
