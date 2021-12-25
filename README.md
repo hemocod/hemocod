@@ -1,7 +1,10 @@
 # Hi ,  :hugs: I'm Ibrahim :saudi_arabia: 
 Thinker, programmer and designer by playing on the keyboard:musical_score:    :musical_keyboard: . 
 I really enjoy learning programming, continuous development and working on projects...
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?hemocod&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
