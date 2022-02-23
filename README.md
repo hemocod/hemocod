@@ -2,7 +2,7 @@
 Thinker, programmer and designer by playing on the keyboard:musical_score:    :musical_keyboard: . 
 I really enjoy learning programming, continuous development and working on projects...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/hemocod/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemocod)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
