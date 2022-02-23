@@ -3,9 +3,9 @@ Thinker, programmer and designer by playing on the keyboard:musical_score:    :m
 I really enjoy learning programming, continuous development and working on projects...
 
 
-![This is an image](https://images.pexels.com/photos/4792728/pexels-photo-4792728.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500/)
+![This is an image](![image](https://user-images.githubusercontent.com/84044938/155384289-dea111e5-f37a-494f-ae4e-d96162389173.png))
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
 
 
 
