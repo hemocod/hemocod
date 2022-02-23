@@ -3,7 +3,15 @@ Thinker, programmer and designer by playing on the keyboard:musical_score:    :m
 I really enjoy learning programming, continuous development and working on projects...
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemocod&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+(https://https://github.com/hemocod.github.io/github-profile-readme-generator/images/banner.png)
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
 
 
 
