@@ -1,5 +1,5 @@
-# Hi ,  :hugs: I'm Ibrahim :saudi_arabia: 
-  common lover between programming & music    :musical_keyboard: . 
+# Hi ,  :hugs: I'm Ibrahim  a  lover of programming & music  :musical_keyboard: .
+   
  
 
  
