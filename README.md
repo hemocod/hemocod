@@ -18,7 +18,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/information-technology-developer-ibrahim-alshahrani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/information-technology-developer-ibrahim-alshahrani" height="30" width="40" /></a>
+   
+<a href="https://www.linkedin.com/in/information-technology-developer-ibrahim-alshahrani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/information-technology-developer-ibrahim-alshahrani/" height="30" width="40" /></a>
+   
 <a href="https://twitter.com/ialshahran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ialshahran" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16463092/ibrahim-alshahrani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16463092/ibrahim-alshahran" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100092473699825" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/abokkalid/" height="30" width="40" /></a>
