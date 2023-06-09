@@ -18,14 +18,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/ibrahimcodepen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/ibrahimcodepen" height="30" width="40" /></a>
-<a href="https://dev.to/https://dev.to/hemocod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/hemocod" height="30" width="40" /></a>
+
 <a href="https://twitter.com/ialshahran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ialshahran" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/ibrahim-alshahrani-2b7168194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ibrahim-alshahrani-2b7168194" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/16463092/ibrahim-alshahran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16463092/ibrahim-alshahran" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/abokkalid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/abokkalid/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_hem88_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_hem88_/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucecmb74ipms1azw9nxsd11g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucecmb74ipms1azw9nxsd11g" height="30" width="40" /></a>
+<a href="linkedin.com/in/information-technology-developer-ibrahim-alshahrani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ibrahim-alshahrani-2b7168194" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16463092/ibrahim-alshahrani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16463092/ibrahim-alshahran" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100092473699825" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/abokkalid/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCECmB74IPmS1azW9NxsD11g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucecmb74ipms1azw9nxsd11g" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
