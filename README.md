@@ -4,7 +4,7 @@
 
  
 <h1 align="center">👋Everything can be programmed </h1>
-<h3 align="center">A developer full stackr from sa</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemocod&label=Profile%20views&color=0e75b6&style=flat" alt="hemocod" /> </p>
 
